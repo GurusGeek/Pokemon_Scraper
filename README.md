@@ -1,0 +1,2 @@
+# Pokemon_Scraper
+ This is a Python-based web scraper that collects information about all the Pokemon listed on the Pokemon Fandom website. The scraper uses the Requests and BeautifulSoup libraries to navigate and scrape the website's HTML code, extracting each Pokemon's index number, name, type(s), and URL. The data is then formatted into a Python dictionary and stored in a list, which can be further analyzed or used to build other applications. This scraper is a great resource for anyone interested in analyzing or working with Pokemon data.
